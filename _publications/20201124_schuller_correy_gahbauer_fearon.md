@@ -254,6 +254,8 @@ pdbs:
 - 5S4J
 - 5S4K
 links:
+- name: Original post
+  url: https://fraserlab.com/macrodomain/
 - name: Fraganalysis from Diamond Lightsource
   url: https://fragalysis.diamond.ac.uk/viewer/react/preview/target/mArh
 - name: QBI Coronavirus Research Group @ UC San Francisco
