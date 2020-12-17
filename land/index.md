@@ -4,6 +4,8 @@ layout: default
 group: land
 ---
 
+## Land Acknowledgement Statement 
+
 The Fraser lab recognizes that the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America.
 
 The Morrill Act of 1862 provided each U.S. state with lands to sell for the establishment of public land-grant universities. However, the nearly 11 million acres of land sold through the Morrill Act was expropriated from nearly 250 tribes, bands, and communities through coercive, and often violent, illegitimate land cessions. In this manner, the University of California acquired nearly 150,000 acres of unceded land that was then sold for [$730 million](https://www.landgrabu.org/universities/university-of-california) (2020, adjusted from 1862 inflation) as seed money for its endowment. 
