@@ -1,5 +1,5 @@
 ---
-title: Fraser Lab Compact and Philosophy
+title: Land Acknowledgement
 layout: default
 group: land
 ---
