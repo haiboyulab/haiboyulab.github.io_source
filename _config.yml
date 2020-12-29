@@ -11,6 +11,7 @@ permalink: pretty
 markdown: kramdown
 kramdown:
   parse_block_html: true
+destination: ../haiboyulab.github.io
 
 exclude:
         - .sass-cache/
